@@ -18,7 +18,7 @@
                             <thead>
                             <tr>
                                 <th>Sl. No:</th>
-                                <th>Category Name</th>
+                                <th>Category Name one two</th>
                                 <th>Blog Title</th>
                                 <th>Author Id</th>
                                 <th>Short Description</th>
